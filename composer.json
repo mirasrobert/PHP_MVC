@@ -1,0 +1,17 @@
+{
+  "name": "robert_miras/custom_mvc",
+  "description": "A custom MVC in PHP",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "mirasrobert",
+      "email": "mrmirasrobert@gmail.com"
+    }
+  ],
+  "require": {}
+}
