@@ -1,8 +1,11 @@
 # PHP_MVC
+
 A custom MVC for PHP
 
+In Your Terminal:
 
-cd public 
+Go to public folder:
+<code>cd public</code>
 
 Run Server:
-php -S localhost:8080
+<code>php -S localhost:8080</code>
